@@ -1,0 +1,12 @@
+title: American Red Cross, International Services Department - GIS Team
+name: GIS
+description: Write an awesome description for your site here.
+baseurl: ""
+url: ""
+
+collections:
+  team:
+    output: true
+    permalimnk: /team/:path/
+
+markdown: kramdown

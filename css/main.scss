@@ -1,0 +1,62 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$background-color: #fdfdfd;
+$text-color:       #111;
+$lgt-gray-color:   #fff;
+$med-gray-color:   #ed1b2e;
+$drk-gray-color:   #6d6e70;
+
+$white-color:      #fff;
+$red-color:        #ed1b2e;
+
+$drk-red-color:    #7f181b;
+$gold-color:       #ecb731;
+$lgt-green-color:  #8ec06c;
+$drk-green-color:  #537b35;
+$blue-color:       #0091cd;
+$lgt-blue-color:   #c4dff6;
+$med-blue-color:   #56a0d3;
+$drk-blue-color:   #004b79;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+// Using media queries with like this:
+// @include media-query($palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "layout-custom"
+;
