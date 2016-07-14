@@ -8,5 +8,5 @@ position: GIS Intern
 image:
 twitter:
 github:
-published: false
+published: true
 ---
