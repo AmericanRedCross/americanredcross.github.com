@@ -6,8 +6,13 @@ permalink: /team/dan-joseph/
 name: Dan Joseph
 position: GIS Officer
 image: /img/team/dan-joseph.jpg
+osm: danbjoseph
 twitter: danbjoseph
 github: danbjoseph
+skype: danielbjoseph
+email: daniel.joseph@redcross.org
+start: 2013-06-10
+end:
 published: true
 ---
 

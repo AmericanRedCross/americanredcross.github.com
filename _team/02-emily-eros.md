@@ -6,8 +6,13 @@ permalink: /team/emily-eros/
 name: Emily Eros
 position: GIS Team Lead
 image: /img/team/emily-eros.jpg
+osm: emilyeros
 twitter: emilyeros
 github: emilyeros
+skype:
+email: emily.eros@redcross.org
+start:
+end:
 published: true
 ---
 

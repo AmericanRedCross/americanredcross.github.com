@@ -6,8 +6,13 @@ permalink: /team/dale-kunce/
 name: Dale Kunce
 position: Global Lead, ICT and Analytics
 image: /img/team/dale-kunce.jpg
+osm: dkunce
 twitter: calimapnerd
 github: dalekunce
+skype:
+email: dale.kunce@redcross.org
+start:
+end:
 published: true
 ---
 

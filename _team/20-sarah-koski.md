@@ -6,8 +6,13 @@ permalink: /team/sarah-koski/
 name: Sarah Koski
 position: Missing Maps Partnership Coordinator
 image:
+osm: sarahcascadia
 twitter: sarahcascadia
 github: sarahcascadia
+skype: sarahcascadia
+email: sarah.koski@redcross.org
+start:
+end:
 published: true
 ---
 

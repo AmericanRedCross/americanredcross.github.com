@@ -6,8 +6,13 @@ permalink: /team/ashley-schmeltzer/
 name: Ashley Schmeltzer
 position: GIS/ Information Management Reservist
 image: /img/team/ashley-schmeltzer.jpg
+osm:
 twitter: schmeltzer_a
 github:
+skype:
+email:
+start:
+end:
 published: true
 ---
 

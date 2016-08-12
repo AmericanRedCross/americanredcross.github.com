@@ -5,9 +5,14 @@ permalink: /team/david-luswata/
 
 name: David Luswata
 position: West Africa GIS Supervisor
-image:
+image: /img/team/david-luswata.jpg
+osm: lusdavo
 twitter: lusdavo
 github:
+skype:
+email:
+start:
+end:
 published: true
 ---
 

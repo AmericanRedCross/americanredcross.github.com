@@ -6,8 +6,13 @@ permalink: /team/matthew-gibb/
 name: Matt Gibb
 position: GIS Analyst
 image: /img/team/matt-gibb.jpg
+osm: Giblet
 twitter: mgibb22
 github: giblet22
+skype:
+email: matthew.gibb@redcross.org
+start:
+end:
 published: true
 ---
 

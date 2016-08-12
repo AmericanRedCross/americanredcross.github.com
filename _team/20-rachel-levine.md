@@ -6,8 +6,13 @@ permalink: /team/rachel-levine/
 name: Rachel Levine
 position: GIS Program Associate
 image: /img/team/rachel-levine.jpg
-twitter:
+osm: RachBLevine
+twitter: Rachblevine
 github: rachblevine
+skype:
+email:
+start:
+end:
 published: true
 ---
 
