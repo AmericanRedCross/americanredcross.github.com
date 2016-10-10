@@ -6,13 +6,13 @@ permalink: /team/katie-higgins/
 name: Katie Higgins
 position: GIS Intern
 image:
-osm:
-twitter:
-github:
+osm: khiggins115
+twitter: khiggs101
+github: khiggins115
 skype:
 email:
-start:
-end:
+start: 2016-06-06
+end: 2016-08-12
 published: false
 ---
 

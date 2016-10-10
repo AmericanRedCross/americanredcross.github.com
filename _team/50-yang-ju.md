@@ -6,13 +6,13 @@ permalink: /team/yang-ju/
 name: Yang Ju
 position: GIS Intern
 image:
-osm:
+osm: Yang1026
 twitter:
 github:
 skype:
 email:
-start:
-end:
+start: 2016-06-06
+end: 2016-08-12
 published: false
 ---
 
