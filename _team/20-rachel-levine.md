@@ -4,7 +4,7 @@ category: team
 permalink: /team/rachel-levine/
 
 name: Rachel Levine
-position: GIS Program Associate
+position: GIS Training and Operations Coordinator
 image: /img/team/rachel-levine.jpg
 osm: RachBLevine
 twitter: Rachblevine
