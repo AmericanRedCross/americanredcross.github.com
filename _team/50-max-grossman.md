@@ -16,4 +16,4 @@ end:
 published: true
 ---
 
-Max is an undergraduate at George Washington University majoring in Geography & International Affairs. As a GIS Intern, he helps the team clean, find, and coallate data, makes cartographic products, and makes validates tasks for the Missing Maps project. In his spare time Max is either surfing, or thinking about surfing.
+Max is an undergraduate at George Washington University majoring in Geography & International Affairs. As a GIS Intern, he helps the team clean, find, and coallate data, make cartographic products, and create and validate tasks for the Missing Maps project. In his spare time Max is either surfing, or thinking about surfing.
