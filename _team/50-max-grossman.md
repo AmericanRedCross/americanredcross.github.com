@@ -5,7 +5,7 @@ permalink: /team/max-grossman/
 
 name: Max Grossman
 position: GIS Intern
-image:
+image: /img/team/max-grossman.jpg
 osm: njsurf1813
 twitter:
 github: maxgrossman
