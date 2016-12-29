@@ -11,7 +11,7 @@ twitter: lusdavo
 github:
 skype:
 email:
-start:
+start: 2015-03-01
 end: 2016-11-30
 published: false
 ---
