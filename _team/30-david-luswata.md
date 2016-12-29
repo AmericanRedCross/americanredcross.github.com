@@ -12,7 +12,7 @@ github:
 skype:
 email:
 start:
-end:
+end: 2016-11-30
 published: false
 ---
 
