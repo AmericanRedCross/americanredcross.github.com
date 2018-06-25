@@ -11,7 +11,7 @@ twitter:
 github: eghirmai
 skype: eghirmai
 email: eva.ghirmai@redcross.org
-start:
+start: 2018-06-18
 end:
 published: true
 ---
