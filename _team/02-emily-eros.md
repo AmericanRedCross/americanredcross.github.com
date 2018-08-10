@@ -12,7 +12,7 @@ github: emilyeros
 skype:
 email: emily.eros@redcross.org
 start:
-end:
+end: 2017-11-14
 published: false
 ---
 
