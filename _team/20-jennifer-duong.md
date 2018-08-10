@@ -5,13 +5,13 @@ permalink: /team/jennifer-duong/
 
 name: Jennifer Duong
 position: GIS Officer
-image: /img/team/dan-joseph.jpg
+image: /img/team/jennifer-duong.jpg
 osm: jduong77
 twitter:
 github: jduong77
 skype: jduong05
 email: jennifer.duong@redcross.org
-start: 2013-06-10
+start: 2018-05-28
 end:
 published: true
 ---
