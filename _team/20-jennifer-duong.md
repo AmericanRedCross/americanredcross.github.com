@@ -5,15 +5,14 @@ permalink: /team/jennifer-duong/
 
 name: Jennifer Duong
 position: GIS Officer
-image: /img/team/dan-joseph.jpg
-osm: danbjoseph
-twitter: danbjoseph
-github: danbjoseph
-skype: danielbjoseph
-email: daniel.joseph@redcross.org
-start: 2013-06-10
+image: /img/team/jennifer-duong.jpg
+osm: jduong77
+github: jduong77
+skype: jduong05
+email: jennifer.duong@redcross.org
+start: 2018-05-29
 end:
 published: true
 ---
 
-Dan assists with disaster response and provides support to long term recovery and resilience programs. In addition to remotely supporting numerous disasters, he has deployed to the Philippines, Vanuatu, Canada, Haiti, and Dominica. Specializing in tools to improve data management and program implementation, he builds everything from websites featuring interactive analytic tools to forms for mobile data collection. Prior to the Red Cross Dan was a Peace Corps volunteer working with a rural, municipal government in the Philippines on environmental and planning projects.
+Jennifer provides GIS support at the American Red Cross working on pandemic preparedness and to make better data, especially map data, available before pandemic outbreaks or disasters. Her other work also focuses on designing and implementing geospatial products for our delegations and National Society partners to help make data driven decisions. Prior to the Red Cross, she was working to apply GIS to strengthen health supply chain, nutrition, and routine immunization programs. Jen holds a Masters degree in GIS from Clark University, and she is a former Peace Corps volunteer (Mongolia).
