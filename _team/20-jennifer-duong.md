@@ -1,7 +1,7 @@
 ---
 layout: person
 category: team
-permalink: /team/dan-joseph/
+permalink: /team/jennifer-duong/
 
 name: Jennifer Duong
 position: GIS Officer
