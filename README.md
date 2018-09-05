@@ -1,4 +1,1 @@
-http://americanredcross.github.io/
-==================================
-
-Main web portal for the GIS office at American Red Cross.
+Introduction to the GIS team at American Red Cross.
