@@ -12,8 +12,8 @@ github: dalekunce
 skype:
 email: dale.kunce@redcross.org
 start:
-end:
-published: true
+end: 2018-11-30
+published: false
 ---
 
 Dale Kunce leads the international ICT and Analytics teams. He is responsible for the adoption of open source software, open data standards and crowd sourcing to supercharge the international work at the American Red Cross.
