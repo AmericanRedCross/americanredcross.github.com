@@ -11,7 +11,7 @@ twitter: calimapnerd
 github: dalekunce
 skype:
 email: dale.kunce@redcross.org
-start:
+start: 2013-05-25
 end: 2018-11-30
 published: false
 ---

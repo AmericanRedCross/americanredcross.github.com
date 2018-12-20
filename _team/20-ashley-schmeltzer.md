@@ -11,7 +11,7 @@ twitter: schmeltzer_a
 github: schmeltz
 skype: ashley.schmeltzer
 email: ashley.schmeltzer@redcross.org
-start: 
+start: 2016-10-30
 end:
 published: true
 ---
