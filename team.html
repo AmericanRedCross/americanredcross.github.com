@@ -4,14 +4,14 @@ permalink: /team/
 ---
 
 <div>
-
-  <h3>GIS at American Red Cross International Services</h3>
+  <h3>{{site.name}}</h3>
   <h1>Who we are</h1>
+  
   <div>
     {% for member in site.team %}
       <div class="team-member-box">
         <h2>
-          <a href="{{ member.url }}">{{ member.name }}</a>
+          <span class="team-member-name"><!-- <a href="{{ member.url }}"> -->{{ member.name }}<!-- </a> -->  </span>
           <span>{{ member.position }}</span>
         </h2>
         {% if member.image %}
@@ -21,6 +21,5 @@ permalink: /team/
       </div>
     {% endfor %}
   </div>
-
 
 </div>

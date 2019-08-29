@@ -234,3 +234,47 @@
         }
     }
 }
+
+.section-padding {
+  padding: 2em 1em;
+
+  @media (min-width: $mq-small) {
+    padding: 3em 2em;
+  }
+
+  @media (min-width: $mq-med) {
+    padding: {
+      right: 1em;
+      left: 1em;
+    }
+  }
+
+  @media (min-width: $mq-xlarge) {
+    padding: {
+      top: 4em;
+      bottom: 4em;
+    }
+  }
+}
+
+//----------------------------------------------
+// Sep
+//---------------------------------------------- 
+.sep {
+  height: 1px;
+  width: 100%;
+  margin: {
+    top: 0;
+    bottom: 0;
+  }
+
+  border: 0;
+  background-color: rgba($black-color, 0.1);
+}
+
+.sep--white {
+  @extend .sep;
+
+  background-color: rgba($white-color, 0.6);
+}
+

@@ -4,7 +4,7 @@ category: team
 permalink: /team/rachel-levine/
 
 name: Rachel Levine
-position: GIS Training and Operations Coordinator
+position: Missing Maps Program Coordinator
 image: /img/team/rachel-levine.jpg
 osm: RachBLevine
 twitter: Rachblevine
@@ -16,4 +16,4 @@ end:
 published: true
 ---
 
-As a Program Associate with the GIS team, Rachel handles operational needs and keeps the team on track and in line. Before joining the Red Cross, she completed a master’s degree in Activism and Social Change at the University of Leeds’ geography department and handled operations at other non-profit organizations. She is also a UMaryland alumna and a huge fan of parks. When not attending mapathons, Rachel likes to travel and wander new cities.
+Rachel coordinates involvement in Missing Maps. Before joining the Red Cross, she completed a master’s degree in Activism and Social Change at the University of Leeds’ geography department and handled operations at other non-profit organizations. She is also a University of Maryland alumna and a huge fan of parks. When not attending mapathons, Rachel likes to travel and wander new cities.
