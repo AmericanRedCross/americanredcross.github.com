@@ -15,11 +15,9 @@ $spacing-unit:     30px;
 
 $background-color: #fdfdfd;
 $text-color:       #111;
-$lgt-gray-color:   #fff;
-$med-gray-color:   #ed1b2e;
-$drk-gray-color:   #6d6e70;
 
 $white-color:      #fff;
+$black-color:      #000;
 $red-color:        #ed1b2e;
 
 $drk-red-color:    #7f181b;
@@ -38,6 +36,23 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
+//----------------------------------------------
+// Media Queries
+//---------------------------------------------- 
+// Smallest phone
+$mq-xsmall: 22em;
+// Phone
+$mq-small: 32em;
+// Tablet
+$mq-med: 54em;
+// Laptop
+$mq-large: 65em;
+// Past laptop
+$mq-xlarge: 91em;
+// Mid-size monitor
+$mq-xxlarge: 115em;
+// Thunderbold goes to 157em
+$mq-xxxlarge: 130em;
 
 // Using media queries with like this:
 // @include media-query($palm) {

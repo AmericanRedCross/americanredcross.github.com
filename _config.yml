@@ -1,6 +1,6 @@
-title: American Red Cross, International Services Department - GIS Team
-name: GIS
-description: Write an awesome description for your site here.
+title: American Red Cross, International Services Department - Data Team
+name: Data Team at American Red Cross International Services
+description: ""
 baseurl: ""
 url: ""
 
@@ -10,3 +10,6 @@ collections:
     permalimnk: /team/:path/
 
 markdown: kramdown
+
+exclude:
+  - README.md

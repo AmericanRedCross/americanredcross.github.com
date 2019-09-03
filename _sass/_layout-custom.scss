@@ -69,3 +69,13 @@ header {
   overflow: auto;
   margin-bottom: 24px;
 }
+.team-member-name {
+  color: $red-color;
+}
+
+
+.posts>div div {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
