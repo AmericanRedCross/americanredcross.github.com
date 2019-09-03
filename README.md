@@ -1,1 +1,1 @@
-Introduction to the GIS team at American Red Cross.
+Introduction to the Data Team at American Red Cross International Services.
