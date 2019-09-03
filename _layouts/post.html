@@ -14,7 +14,11 @@ layout: default
   {% if page.image %}
     <div>
       <img src='{{ page.image }}');">
+      {% if page.caption %}
+      <br><span class="post-caption">{{page.caption}}</span>
+      {% endif %}
     </div>
+
   {% endif %}
 </div>
 

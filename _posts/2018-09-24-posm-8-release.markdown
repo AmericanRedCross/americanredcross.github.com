@@ -3,11 +3,16 @@ layout: post
 title: "POSM 0.8 - Big changes"
 date: 2018-09-24
 description: 
-image: /img/posts/posm0.8-skullcanyon.jpg
+image: /img/posts/20180924-skullcanyon.jpg
+caption: An Intel NUC running POSM
 author: [Dan Joseph, Seth Fitzsimmons]
 tags:
   - POSM
 ---
+
+_<span class="cross-post">This was originally posted on the [Missing Maps Blog](http://www.missingmaps.org/blog/2018/09/24/posm-release/).</span>_
+
+## POSM
 
 POSM was created to integrate best-of-breed tools from a variety of sources and developers on a single device that can be deployed to the field alongside Red Cross staff and volunteers and facilitate mapping efforts, particularly when internet access is absent. Initially conceived primarily for OpenStreetMap data collection, we’ve had fun pushing the limits of POSM in a variety of situations. Plus, it’s been exciting to see various groups take in interest in the software, some for use cases we never considered! We’ve just released a new version of POSM with many exciting changes.
 

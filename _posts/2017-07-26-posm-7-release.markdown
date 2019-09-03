@@ -3,11 +3,14 @@ layout: post
 title: "POSM 0.7 - Faster and better than ever!"
 date: 2017-07-26
 description: 
-image: /img/posts/posm0.7-boxes.jpg
+image: /img/posts/20170726-boxes.jpg
+caption: Two POSMs complete with the requisite stickers
 author: [Emily Eros, Seth Fitzsimmons]
 tags:
   - POSM
 ---
+
+_<span class="cross-post">This was originally posted on the [Missing Maps Blog](http://www.missingmaps.org/blog/2017/07/26/posm-update/).</span>_
 
 We are pleased to announce a new and improved version of POSM – now faster and slicker than ever!
 
@@ -25,11 +28,13 @@ Additions and improvements include:
 
 POSM's new admin interface makes the device easier to navigate and use. Offline instructions are linked on the left and the file share info is easy to find on the home screen.
 
-![new POSM interface](/img/posts/posm0.7-new-interface.jpg)
+![new POSM interface](/img/posts/20170726-interface.png)
+<br><span class="post-caption">The new POSM interface</span>
 
-We wrote a step-by-step instruction guide where project managers can find everything they need to know about getting, setting up, and using a POSM. Troubleshooting tips are included and the full guide can be accessed [online](http://www.posm.io) or through the POSM itself.
+We wrote a step-by-step instruction guide where project managers can find everything they need to know about getting, setting up, and using a POSM. Troubleshooting tips are included and the full guide can be accessed [online](http://www.posm.io/docs) or through the POSM itself.
 
-![POSM instruction guide](/img/posts/posm0.7-instruction-guide.jpg)
+![POSM instruction guide](/img/posts/20170726-guide.png)
+<br><span class="post-caption">A step-by-step instruction guide is now available</span>
 
 POSM is ready for your offline enumeration, mapping, and imagery needs with its integration of OpenDataKit, OpenMapKit, Field Papers, OpenStreetMap, OpenDroneMap, and the POSM Imagery API.
 
