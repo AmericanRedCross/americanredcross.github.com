@@ -4,6 +4,8 @@ description: ""
 baseurl: ""
 url: ""
 
+permalink: /:categories/:year/:month/:day/:title/
+
 collections:
   team:
     output: true
