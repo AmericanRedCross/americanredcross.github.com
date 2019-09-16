@@ -243,6 +243,27 @@
             font-size: 14px;
         }
     }
+    
+    table {
+      border: 0px solid $grey-color-dark;
+      text-align: center;
+      border-collapse: collapse;
+      margin-bottom: 15px;
+    }
+    table td, table th {
+      border: 1px solid $grey-color-dark;
+      padding: 4px 8px;
+    }
+    table tbody td {
+
+    }
+    table thead {
+      border-bottom: 2px solid $grey-color-dark;
+    }
+    table thead th {
+      font-weight: normal;
+    }
+
 }
 
 .section-padding {
