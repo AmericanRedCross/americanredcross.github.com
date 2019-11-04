@@ -2,7 +2,7 @@
 layout: post
 title: "Drones over Canaan, Haiti"
 date: 2018-04-09
-description: Canaan, one of the most populated areas in Haiti, continues to evolve and grow. The American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and updating OpenStreetMap. 
+description: Canaan, one of the most populated areas in Haiti, continues to evolve and grow. In December 2017, the American Red Cross covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and updating OpenStreetMap. 
 image: /img/posts/20180409_banner.jpg
 caption: Checking the progress of a drone mapping mission, CC-BY Matt Gibb/ American Red Cross
 author: [Matthew Gibb, Dan Joseph]
@@ -19,7 +19,7 @@ Eight years after the devastating earthquake in January 2010, the landscape in H
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YopoEuwLf2Y" frameborder="0" allowfullscreen></iframe>
 
-Canaan lies in rolling foothills about 10km north of Port-au-Prince. The population has continuously grown since the earthquake and dense urban areas have developed in central parts. The farther areas are more sparsely populated although this is rapidly changing as can be seen in the amount of ongoing construction. Canaan has grown so rapidly that keeping a map of the area up to date is extremely difficult. Additionally, some communities have become so dense that the satellite imagery commonly used to create maps is not detailed enough to accurately interpret. To address these issues and benefit the communities and other organizations working there, the American Red Cross collected, processed, and made available high resolution, up-to-date, drone imagery for the entire 35 square kilometer area.
+Canaan lies in rolling foothills about 10km north of Port-au-Prince. The population has continuously grown since the earthquake and dense urban areas have developed in central parts. The farther areas are more sparsely populated although this is rapidly changing as can be seen in the amount of ongoing construction. Canaan has grown so rapidly that keeping a map of the area up to date is extremely difficult. Additionally, some communities have become so dense that the satellite imagery commonly used to create maps is not detailed enough to accurately interpret. To address these issues and benefit the communities and other organizations working there, the American Red Cross collected, processed, and made available high resolution, up-to-date, drone imagery for the entire 35 square kilometer area in December 2017.
 
 ## Equipment
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Detailed drone and street-level imagery for mapping in the Philippines"
 date: 2017-07-27
-description: "Earlier this year, the American Red Cross and Philippine Red Cross collected detailed aerial and street-level imagery of areas that have been part of a 3-year Typhoon Haiyan (Yolanda) recovery program."
+description: "In May 2017, the American Red Cross and Philippine Red Cross collected detailed aerial and street-level imagery of areas that have been part of a 3-year Typhoon Haiyan (Yolanda) recovery program."
 image: /img/posts/20170727_banner.jpg
 caption: Aerial view of one of the barangays mapped by drone
 author: Dan Joseph
@@ -22,7 +22,7 @@ As part of the response to the disaster caused by Typhoon Haiyan (Yolanda), the 
 
 **Background**
 
-Unmanned Aerial Vehicles (UAVs), also known as Remotely Piloted Aircraft Systems (RPAS) or drones, are increasingly used for [humanitarian purposes](http://drones.fsd.ch/en/drones-in-humanitarian-action/). Earlier this year, we leveraged drones for comprehensive aerial imagery collection to support the recovery program. High-resolution aerial imagery is a valuable resource when creating value-add information products for response, planning, monitoring, and resilience building activities.
+Unmanned Aerial Vehicles (UAVs), also known as Remotely Piloted Aircraft Systems (RPAS) or drones, are increasingly used for [humanitarian purposes](http://drones.fsd.ch/en/drones-in-humanitarian-action/). In May 2017, we leveraged drones for comprehensive aerial imagery collection to support the recovery program. High-resolution aerial imagery is a valuable resource when creating value-add information products for response, planning, monitoring, and resilience building activities.
 
 <img src="/img/posts/20170727_compare.jpg" alt="satellite vs drone imagery">
 <br><span class="post-caption">Resolution comparison between satellite imagery available on Google Maps (left) compared to drone imagery</span>
