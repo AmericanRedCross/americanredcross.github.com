@@ -24,7 +24,7 @@ Red Cross partners are piloting a project to solve this issue: a low-cost, meshe
 
 ## On the ground in Cape Town
 
-Just a few days before the mapping was to start we were advised not to use smart phones due to new security concerns. We normally use phones to run the [OpenMapKit](http://posm.io/docs/omk/intro/) mobile data collection app. Fortunately, we could use GPS devices as they would be much less desirable targets for theft.
+Just a few days before the mapping was to start we were advised not to use smart phones due to new security concerns. We normally use phones to run the [OpenMapKit](http://posm.io/) mobile data collection app. Fortunately, we could use GPS devices as they would be much less desirable targets for theft.
 
 Early on a very chilly morning we headed to the Andile Msizi Community Center in Khayelitsha with the South African Red Cross team. We met 34 volunteers and started a two-day training to introduce the volunteers to OpenStreetMap and the community mapping process. Volunteers were from the local area and immediately got hooked on the OSM iD editor looking at the satellite imagery of their neighborhoods and pointing out where they live.
 

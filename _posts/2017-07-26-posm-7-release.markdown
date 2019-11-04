@@ -31,7 +31,7 @@ POSM's new admin interface makes the device easier to navigate and use. Offline 
 ![new POSM interface](/img/posts/20170726-interface.png)
 <br><span class="post-caption">The new POSM interface</span>
 
-We wrote a step-by-step instruction guide where project managers can find everything they need to know about getting, setting up, and using a POSM. Troubleshooting tips are included and the full guide can be accessed [online](http://www.posm.io/docs) or through the POSM itself.
+We wrote a step-by-step instruction guide where project managers can find everything they need to know about getting, setting up, and using a POSM. Troubleshooting tips are included and the full guide can be accessed [online](http://www.posm.io/) or through the POSM itself.
 
 ![POSM instruction guide](/img/posts/20170726-guide.png)
 <br><span class="post-caption">A step-by-step instruction guide is now available</span>
