@@ -4,7 +4,7 @@ category: team
 permalink: /team/ashley-schmeltzer/
 
 name: Ashley Schmeltzer
-position: GIS Officer
+position: Team Manager
 image: /img/team/ashley-schmeltzer.jpg
 osm: schmeltzer
 twitter: schmeltzer_a
