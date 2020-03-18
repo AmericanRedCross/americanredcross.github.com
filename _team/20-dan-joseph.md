@@ -4,7 +4,7 @@ category: team
 permalink: /team/dan-joseph/
 
 name: Dan Joseph
-position: GIS Officer
+position: Solutions Engineer
 image: /img/team/dan-joseph.jpg
 osm: danbjoseph
 twitter: danbjoseph
