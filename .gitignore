@@ -1,5 +1,6 @@
 tmp/*
-
+.bundle
+bundle 
 _site
 .sass-cache
 

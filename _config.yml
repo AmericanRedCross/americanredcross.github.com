@@ -15,3 +15,9 @@ markdown: kramdown
 
 exclude:
   - README.md
+
+exclude:
+  - bundle
+  - Gemfile
+  - Gemfile.lock
+  - README.md
