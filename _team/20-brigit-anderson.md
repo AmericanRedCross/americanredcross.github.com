@@ -15,3 +15,4 @@ start:
 end:
 published: true
 ---
+bio
