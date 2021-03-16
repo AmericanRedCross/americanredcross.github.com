@@ -15,4 +15,4 @@ start:
 end:
 published: true
 ---
-bio
+Brigit supports data readiness for the Community Epidemic and Pandemic Preparedness Program (CP3). She started with the American Red Cross as a volunteer through the Missing Maps program and has a background in GIS and spatial analysis, as well as in training, facilitation, and education program management. 
