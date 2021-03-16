@@ -5,7 +5,7 @@ permalink: /team/brigit-anderson/
 
 name: Brigit Anderson
 position: GIS/IM Officer
-image: img\team\brigit-anderson.jpg
+image: /img/team/brigit-anderson.jpg
 osm:
 twitter:
 github: brigitanderson
