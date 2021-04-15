@@ -8,7 +8,7 @@ caption: Phones packed and ready for data collection by the Philippine Red Cross
 author: [Dan Joseph]
 tags:
   - open source
-  - Open Data Kit
+  - ODK
 ---
 
 ## Open Data Kit and the benefits of open source
