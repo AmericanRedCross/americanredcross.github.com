@@ -11,8 +11,8 @@ twitter:
 github: brigitanderson
 skype:
 email: brigit.anderson2@redcross.org
-start:
-end:
-published: true
+start: 2021-02-15
+end: 2021-10-29
+published: false
 ---
 Brigit supports data readiness for the Community Epidemic and Pandemic Preparedness Program (CP3). She started with the American Red Cross as a volunteer through the Missing Maps program and has a background in GIS and spatial analysis, as well as in training, facilitation, and education program management.
