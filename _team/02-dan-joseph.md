@@ -4,6 +4,7 @@ category: team
 permalink: /team/dan-joseph/
 
 name: Dan Joseph
+team: datatech
 position: Data Tech Lead
 image: /img/team/dan-joseph.jpg
 osm: danbjoseph
@@ -16,4 +17,4 @@ end:
 published: true
 ---
 
-Dan leads the Data and Tech team, seeking to better engage our volunteers and partners in increasing mission impact across our data readiness portfolio. He assists with disaster response and provides support to long term recovery and resilience programs. In addition to remotely supporting during numerous disasters, he has deployed to responses in the Philippines, Vanuatu, Canada, Haiti, Dominica, and Mozambique. Specializing in tools to improve data management and program implementation, he builds everything from websites featuring interactive analytic tools to forms for mobile data collection. Prior to the Red Cross Dan was a Peace Corps volunteer working with a rural, municipal government in the Philippines on environmental and planning projects.
+Dan leads the Data and Tech team, seeking to better engage our volunteers and partners in increasing mission impact across our data readiness portfolio. He assists with disaster response as well as providing support to long term recovery and resilience programs. Specializing in improving data management and program implementation, he builds everything from websites featuring interactive analytic tools to forms for mobile data collection.

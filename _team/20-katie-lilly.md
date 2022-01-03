@@ -4,6 +4,7 @@ category: team
 permalink: /team/katie-lilly/
 
 name: Katie Lilly
+team: im
 position: IM Officer
 image: /img/team/katie-lilly.jpg
 osm:

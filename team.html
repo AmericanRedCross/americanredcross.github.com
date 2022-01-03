@@ -6,19 +6,41 @@ permalink: /team/
 <div>
   <h3>{{site.name}}</h3>
   <h1>Who we are</h1>
-  
+  <p> We are the <a href="#im">Information Management Team</a> and <a href="#datatech">Data and Tech Team</a>.
+
   <div>
+    <h2 id="im">Information Management Team</h2>
     {% for member in site.team %}
+    {% if member.team == "im" %}
       <div class="team-member-box">
-        <h2>
+        <h3>
           <span class="team-member-name"><!-- <a href="{{ member.url }}"> -->{{ member.name }}<!-- </a> -->  </span>
           <span>{{ member.position }}</span>
-        </h2>
+        </h3>
         {% if member.image %}
         <img width="200px" style="float:left; margin-right: 16px;" src=" {{ member.image }}">
         {% endif %}
         <p>{{ member.content }}</p>
       </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <div>
+    <h2 id="datatech">Data and Tech Team</h2>
+    {% for member in site.team %}
+    {% if member.team == "datatech" %}
+      <div class="team-member-box">
+        <h3>
+          <span class="team-member-name"><!-- <a href="{{ member.url }}"> -->{{ member.name }}<!-- </a> -->  </span>
+          <span>{{ member.position }}</span>
+        </h3>
+        {% if member.image %}
+        <img width="200px" style="float:left; margin-right: 16px;" src=" {{ member.image }}">
+        {% endif %}
+        <p>{{ member.content }}</p>
+      </div>
+    {% endif %}
     {% endfor %}
   </div>
 

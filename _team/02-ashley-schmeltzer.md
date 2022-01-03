@@ -4,6 +4,7 @@ category: team
 permalink: /team/ashley-schmeltzer/
 
 name: Ashley Schmeltzer
+team: im
 position: IM Team Manager
 image: /img/team/ashley-schmeltzer.jpg
 osm: schmeltzer
