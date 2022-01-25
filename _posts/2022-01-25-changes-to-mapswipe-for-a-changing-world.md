@@ -41,7 +41,7 @@ A key complement to understanding the accuracy of features existing in OSM, will
 
 ## Join in!
 
-Download the MapSwipe app for [Android](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe) or [iOS](https://itunes.apple.com/us/app/mapswipe/id1133855392?ls=1&mt=8) and tell us what you think. Look for a mission with “OSM building validation” in the title to check out the new mission type.
+Download the MapSwipe app for [Android](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe) or [iOS](https://itunes.apple.com/us/app/mapswipe/id1133855392?ls=1&mt=8) and tell us what you think. Look for a mission with “OSM building validation” in the title to check out the new mission type. Please click the green “Tutorial” button from the mission page and learn about contributing before starting to map.
 
 Follow [@mapswipe](https://twitter.com/mapswipe) on Twitter.
 
