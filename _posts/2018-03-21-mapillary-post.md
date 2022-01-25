@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Red Cross Uses Data During Global Disasters"
+title: "How Red Cross uses data during global disasters"
 date: 2018-03-21
 description: "Dan Joseph gives us an insight into using street-level imagery in disaster response and the challenges they face when time is critical."
 image: /img/posts/20180321-canaan.jpg
@@ -74,4 +74,3 @@ _You can follow Dan ([@danbjoseph](https://twitter.com/danbjoseph)) and the Amer
 
 ![Dan setting up a camera on the car hood for mapping](/img/posts/20180321-camera-setting.jpg)
 <span class="post-caption">Dan setting up a camera on the car hood for mapping</span>
-
