@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Supporting Open Data Kit"
+title: "Supporting ODK"
 date: 2019-01-08
-description: 
+description:
 image: /img/posts/20190108-supporting-odk-phones.jpg
 caption: Phones packed and ready for data collection by the Philippine Red Cross
 author: [Dan Joseph]
@@ -11,24 +11,24 @@ tags:
   - ODK
 ---
 
-## Open Data Kit and the benefits of open source
+## ODK and the benefits of open source
 
-The [Open Data Kit](http://opendatakit.org) (ODK) community produces free and open-source software for collecting, managing, and using data in resource-constrained environments. The various ODK tools enable cost effective, scalable, and user-friendly implementation of mobile data activities.
+The [ODK](https://getodk.org/) community produces free and open-source software for collecting, managing, and using data in resource-constrained environments. The various ODK tools enable cost effective, scalable, and user-friendly implementation of mobile data activities.
 
 Many of ODK’s users are engaged in humanitarian, environmental, development, and civic work. These users may not be able to afford software that requires purchasing a subscription or license. In ODK, they have a robust and accessible mobile data collection solution that is free and open source. ODK is supported by developers, users, organizations, and others giving what they can, when they can. Members of the community write code, fix bugs, create manuals and documentation, help each other troubleshoot via an online forum, give feedback, suggest changes, fund improvements, and tell others about how great the ODK tools are!
 
-ODK has many advantages due to being an open source project. Different groups are able to pool limited resources and share in the work. The software is not tied to any one organization which helps to mitigate software discontinuation risks. A diversity of voices can suggest feature ideas and help realize an effective evolution of the software. Investments have a ripple effect, with small contributions benefiting a large group of users and stakeholders. 
+ODK has many advantages due to being an open source project. Different groups are able to pool limited resources and share in the work. The software is not tied to any one organization which helps to mitigate software discontinuation risks. A diversity of voices can suggest feature ideas and help realize an effective evolution of the software. Investments have a ripple effect, with small contributions benefiting a large group of users and stakeholders.
 
-## Open Data Kit usage in the Global Red Cross Red Crescent Network
+## ODK usage in the Global Red Cross Red Crescent Network
 
-One of the key components is ODK Collect, an Android app enabling users to retrieve, fill out, and submit surveys digitally from a smart device. [@OpenDataKit](https://twitter.com/OpenDataKit/status/1110995026916593664) tweeted on March 27, 2019: “In the last year, ODK Collect has had 2,500,000 users! The app now runs on 12,000 different devices, supports 50 languages, and is most used in Southern Asia, East and West Africa. Oh, and in the time it's taken you to read this tweet, 15 forms have been submitted using Collect.”
+One of the key components is ODK Collect, an Android app enabling users to retrieve, fill out, and submit surveys digitally from a smart device. [@GetODK](https://twitter.com/getodk/status/1110995026916593664) tweeted on March 27, 2019: “In the last year, ODK Collect has had 2,500,000 users! The app now runs on 12,000 different devices, supports 50 languages, and is most used in Southern Asia, East and West Africa. Oh, and in the time it's taken you to read this tweet, 15 forms have been submitted using Collect.”
 
 Staff and volunteers of the Red Cross Red Crescent network are among the 2.5 million users in the past year of ODK Collect and other ODK software like the Aggregate server and the Briefcase desktop app. Conducting damage assessments and registering people for relief distributions are two of the many ways the technology can be used to improve the efficiency and impact of humanitarian action.
 
 ![tweets from Namibia Red Cross and Indian Red Cross about using ODK](/img/posts/20190108-supporting-odk-society-tweets.png)
 <br><span class="post-caption">Tweets from Namibia Red Cross and Indian Red Cross about using ODK</span>
 
-Paid software is not an equally affordable expense around the Red Cross and Red Crescent network, and benefit only the National Society for which the software is purchased. By using and sharing free and open source software within our global network, the costs of technology adoption are much lower. By investing in commonly used open source such as ODK, it also helps the software work well for everyone. 
+Paid software is not an equally affordable expense around the Red Cross and Red Crescent network, and benefit only the National Society for which the software is purchased. By using and sharing free and open source software within our global network, the costs of technology adoption are much lower. By investing in commonly used open source such as ODK, it also helps the software work well for everyone.
 
 Some of the Red Cross and Red Crescent investment is through community involvement. It helps ODK when people blog or post on social media about their positive experiences using the software. It helps when people suggest new features or report bugs in the software. It helps when people answer support questions on the community forum. I serve on the ODK Suite Technical Steering Committee, and Raquel Bernedo from Spanish Red Cross serves on the ODK-X Suite Technical Steering Committee. Community is important, but it’s also financial support that keeps the project running and maintained, helping to quickly implement bug fixes and new features, by funding ODK developers.
 
@@ -44,7 +44,7 @@ Each idea went through an open feedback and consultation phase. Conversations oc
 
 ### Export standard geoformats
 
-The American Red Cross funded a data export option that allows the user to get their survey data in a GeoJSON geographic file format instead of the standard spreadsheet. The functionality makes it easier to use the data in a GIS or other downstream tool. The functionality was intended to be implemented in both Aggregate and Briefcase. Briefcase v1.13 included the feature  for both the graphical user interface and via command line. Implementing the feature in Aggregate with Google App Engine support, a key part of many existing server deployments, was going to be too costly so we pivoted that funding into additional features (see the last section below). The community discussion for the feature can be found on the [forum](https://forum.opendatakit.org/t/add-a-geojson-export-to-briefcase-and-aggregate/15184). The improvement was tracked and implemented on [GitHub](https://github.com/opendatakit/roadmap/issues/26) and released in [Briefcase v1.13](https://forum.opendatakit.org/t/odk-briefcase-v1-13/16442). 
+The American Red Cross funded a data export option that allows the user to get their survey data in a GeoJSON geographic file format instead of the standard spreadsheet. The functionality makes it easier to use the data in a GIS or other downstream tool. The functionality was intended to be implemented in both Aggregate and Briefcase. Briefcase v1.13 included the feature  for both the graphical user interface and via command line. Implementing the feature in Aggregate with Google App Engine support, a key part of many existing server deployments, was going to be too costly so we pivoted that funding into additional features (see the last section below). The community discussion for the feature can be found on the [forum](https://forum.opendatakit.org/t/add-a-geojson-export-to-briefcase-and-aggregate/15184). The improvement was tracked and implemented on [GitHub](https://github.com/opendatakit/roadmap/issues/26) and released in [Briefcase v1.13](https://forum.opendatakit.org/t/odk-briefcase-v1-13/16442).
 
 ![a tweet from @OpenDataKit about the Briefcase release](/img/posts/20190108-supporting-odk-tweet-briefcase.png)
 <br><span class="post-caption">A tweet from [@OpenDataKit](https://twitter.com/i/web/status/1066995088511897600) about the Briefcase release</span>
