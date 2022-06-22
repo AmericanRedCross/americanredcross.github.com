@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supporting ODK"
+title: "Supporting ODK Collect improvements"
 date: 2019-01-08
 description:
 image: /img/posts/20190108-supporting-odk-phones.jpg
