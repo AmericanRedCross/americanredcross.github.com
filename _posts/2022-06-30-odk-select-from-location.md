@@ -19,7 +19,7 @@ When the American Red Cross first explored how to use mobile data collection too
 
 ODK is still a global standard for data collection. It is the Land Cruiser of data collection: reliable, tough, easy to use, customizable, and proven. ODK is synonymous with mobile data collection for many people. Being open-source makes it widely accessible and increases its impact by allowing it to serve as the foundation for other tools such as the popular Kobo Toolbox.
 
-The roadmap charting the future of the ODK project is formed in large part from the conversations that occur on the community forum, as well as collaborative processes that help the core maintainers ensure the technical feasibility of ideas, check assumptions, and confirm compatibility with the larger ecosystem.
+A diverse group of users and developers make up the ODK community; part of what makes ODK so great is how readily they collaborate and cooperate. The roadmap charting the future of the ODK project is formed in large part from the conversations that occur on the community forum, as well as collaborative processes that help the core maintainers ensure the technical feasibility of ideas, check assumptions, and confirm compatibility with the larger ecosystem.
 
 A key piece of the roadmap for ODK is the enablement of stronger entity-based data collection workflows - leveraging the information collected about a specific person, place, or thing through repeat surveys instead of having each survey exist in isolation of the others. It is planned that geo will be central to these workflows.
 
