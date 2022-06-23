@@ -27,7 +27,7 @@ A key piece of the roadmap for ODK is the enablement of stronger entity-based da
 
 The American Red Cross was able to support improving entity-based data collection workflows in ODK, specifically the "select from map" functionality. This functionality in ODK will replace, and surpass, what we designed OpenMapKit to do; it will do it without the complexities and costs of maintaining a separate app. The functionality will allow an enumerator to select an item from a map, with the mapped items being pre-defined by the survey managers. The survey can then include pre-populated data linked to the item, and link whatever answers are provided during the rest of the survey to that particular location.
 
-We funded several items that complement other development work, advance the ODK roadmap, and align with our priorities around improving data collection workflows for humanitarian purposes:
+We funded several items that complement other development work, advance the ODK roadmap, and align with our priorities around improving data collection workflows for humanitarian purposes. The work includes:
 
 1. Improvements "under the hood" to the performance of the map component in ODK so that it continues to function smoothly even when a survey includes a large number of geographic features.
 2. Upgrades which pave the way for enabling users to specify styling for individual features (expected for fall). This means for example that if you are collecting data on health infrastructure you could style pharmacies green and hospitals blue.
