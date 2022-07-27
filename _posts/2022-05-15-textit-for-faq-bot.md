@@ -4,7 +4,7 @@ title: "Creating a Viber bot in Poland with TextIt"
 date: 2022-05-15
 description:
 image: /img/posts/20220515_intro.png
-caption: ""
+caption: "Users could set their language preference and then access an automated information service."
 author: [Dan Joseph]
 tags:
   - open source
@@ -54,8 +54,8 @@ In working with my colleagues to organize the information they wanted the chatbo
 
 I started the chatbot flow with a check to see if someone had interacted with it before and set a language preference. If they are a new user then they are asked to set a language. We authored the flow in English and translated it to Polish, Ukrainian, and Russian. After we know their preferred language, the user can choose one of three categories of information. Since a flow can easily get large enough that it is hard to manage within one layout, I split each category out into its own layout.
 
-![screen shot from TextIt showing the opener flow for language preference and category selection](/img/posts/20220515_info-bot-flow.png)
-<br><span class="post-caption">The opening flow that lets a user set their language preference and select a category of interest.</span>
+![screen shot from TextIt showing the language preference selection](/img/posts/20220515_info-bot-flow.png)
+<br><span class="post-caption">The part of the opening flow that lets a user set their language preference.</span>
 
 ![screen shot from TextIt showing the start of the "essential services" category flow](/img/posts/20220515_essential-services-flow.png)
 <br><span class="post-caption">The start of the "essential services" category flow showing topics, questions, and information messages. </span>
@@ -73,7 +73,7 @@ Opening a ticket paused the automated flows and triggered an email alert to the 
 To translate the messages, you can toggle the language in the top right of the flow build interface. Messages in the flow that still need to be translated are highlighted with a yellow fill and red text. However, if you change the main language wording after translations are finished you’ll need to manually track which translations need to be updated.  
 
 ![screen shots showing how a message in the flow is translated](/img/posts/20220515_translation.png)
-<br><span class="post-caption">Messages (from left to right) in English, awaiting translation, and Ukrainian.</span>
+<br><span class="post-caption">A programmed message (from left to right) in English, awaiting translation, and Ukrainian.</span>
 
 The ticketing dashboard interface was simple but effective and met our immediate needs.
 
@@ -82,13 +82,13 @@ The ticketing dashboard interface was simple but effective and met our immediate
 
 The built-in analytics dashboard let us analyze what time of day and day of the week had the most users, as well as track usage over time.
 
-![screen shot of graphs and charts showing days and times users interacted with the bot](/img/posts/20220515_analytics-1.png)
-<br><span class="post-caption">Analytics of the days and times when users were interacting with the bot.</span>
+![screen shot of graphs and charts showing daily history and days of the week users interacted with the bot](/img/posts/20220515_analytics-1.png)
+<br><span class="post-caption">Analytics of the daily history and days of the week when users were interacting with the bot.</span>
 
-The dashboard also let us look at the distribution of responses in the flow. Here you can see that 12% of users requested the Russian version. Some 65% were not enrolled for cash assistance and interested in learning how to register.
+The dashboard also let us look at the distribution of responses in the flow. Here you can see that 12% of users requested the Russian version.
 
-![screen shot of graphs showing percentage responses for language and category selections](/img/posts/20220515_analytics-2.png)
-<br><span class="post-caption">Analytics of the user choices for language and category selections.</span>
+![screen shot of graphs showing percentage responses for language preference](/img/posts/20220515_analytics-2.png)
+<br><span class="post-caption">Analytics of the user choices for language preference.</span>
 
 ## Future thoughts
 
