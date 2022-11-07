@@ -79,4 +79,4 @@ Once the merged orthomosaic was complete, we adjusted the georeferencing of the 
 
 The orthomosaic has been added to and can be downloaded from [OpenAerialMap](https://map.openaerialmap.org/#/-72.27829399999999,18.670043999999997,10/user/59ecfc8c31eff4000c3804dd/5ac7d6ca91b5310010e0d4c4?_k=a7m179). New mapping projects have been created on the HOT Tasking manager. Due to the density of the area and presence of existing data, these projects are available to advanced mappers only.
 
-The imagery has been shared with American Red Cross staff as well as partners and organizations working in Canaan to improve population estimates, plan DRR activities, and assist with community planning.
+The imagery has been shared with American Red Cross staff as well as partners and organizations working in Canaan to improve population estimates, plan disaster risk reduction activities, and assist with community planning.
