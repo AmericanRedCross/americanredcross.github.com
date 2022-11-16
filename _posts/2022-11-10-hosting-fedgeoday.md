@@ -45,4 +45,4 @@ The support of numerous sponsors kept FedGeoDay free for attendees from governme
 I’m sure there will be more FedGeoDays; in the meantime, check out the [complete conference coverage](https://www.projectgeospatial.com/fedgeoday) for this year on Project Geospatial or all of the session recordings on their [YouTube playlist](https://www.youtube.com/playlist?list=PLXButqX2YO4LxgtCCaHrV768ykRUQpm3l). We’re looking forward to the next opportunity to talk about all things open and geospatial!
 
 ![the FedGeoDay organizers](/img/posts/20221110_fedgeoday-organizers.png)
-<br><span class="post-caption">This year’s FedGeoDay organizers. (Image credit: [Project GeoSpatial](https://www.projectgeospatial.com/fedgeoday)</a>)</span>
+<br><span class="post-caption">This year’s FedGeoDay organizers. (Image credit: [Project GeoSpatial](https://www.projectgeospatial.com/fedgeoday))</span>
