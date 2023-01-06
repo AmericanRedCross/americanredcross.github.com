@@ -43,7 +43,7 @@ In Dominica after the devastation wrought by hurricane Irma, as Red Cross teams 
 
 The Philippines is frequently in the path of major storms. Typhoon Haiyan, the strongest storm ever recorded in the country, struck in 2013. Thanks to the generosity of donors, the American Red Cross has been able to work alongside the Philippine Red Cross on [recovery activities](http://www.redcross.org/about-us/our-work/international-services/haiyan-recovery) that include training volunteers in communities on disaster prevention and preparedness.
 
-As part of the work, we were able to improve Mapillary [coverage](https://www.mapillary.com/map/im/Qv38Gt47pSndHmJm9zje6Q) and additionally collect aerial imagery with drones. [Cross referencing](https://americanredcross.github.io/ttl-imagery/) between these different images allows communities to build a more complete picture of their towns. Up-to-date OSM data derived from the images can be used to create accurate maps, which are valuable for planning and as tools for responding to any future disasters.
+As part of the work, we were able to improve Mapillary [coverage](https://www.mapillary.com/map/im/Qv38Gt47pSndHmJm9zje6Q) and additionally collect aerial imagery with drones. Cross referencing between these different images allows communities to build a more complete picture of their towns. Up-to-date OSM data derived from the images can be used to create accurate maps, which are valuable for planning and as tools for responding to any future disasters.
 
 ## Thinking about the future
 
