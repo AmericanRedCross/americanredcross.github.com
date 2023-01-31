@@ -15,9 +15,9 @@ tags:
 
 ## Crowdsourcing geo data with MapSwipe
 
-MapSwipe is an open-source mobile app that helps organizations crowdsource the creation of geospatial data. Using such data to understand places and the “where?” of things is vitally important; not just for getting from point A to point B but for coordination, understanding needs, tracking impact, identifying gaps, and a multitude of other concerns.
+[MapSwipe](https://mapswipe.org/) is an open-source mobile app that helps organizations crowdsource the creation of geospatial data. Using such data to understand places and the “where?” of things is vitally important; not just for getting from point A to point B but for coordination, understanding needs, tracking impact, identifying gaps, and a multitude of other concerns.
 
-MapSwipe missions present small groups of simple tasks to app users contributing their time. In the original MapSwipe ‘Build Area’ mission type release in 2016, volunteers swipe through satellite images and tap imagery tiles in which they’ve located particular features such as buildings. In more recent years, the MapSwipe community has added new mission types including for change detection and footprint review. Each small task is completed by multiple individuals to create a mechanism for internal validation of results, facilitating more useful and trustworthy data generation.
+MapSwipe missions present small groups of simple tasks to app users contributing their time. In the original MapSwipe ‘Build Area’ mission type release in 2016, volunteers swipe through satellite images and tap imagery tiles in which they’ve located particular features such as buildings. In more recent years, the MapSwipe community has added new mission types including for change detection and [footprint review](/2022/01/25/changes-to-mapswipe-for-a-changing-world/). Each small task is completed by multiple individuals to create a mechanism for internal validation of results, facilitating more useful and trustworthy data generation.
 
 ## Tallying contributions
 
@@ -27,11 +27,11 @@ We recognize that keeping users informed about their contributions on the app is
 
 The MapSwipe community is cautious regarding potential negative consequences of too much gamification, such as users valuing speed or quantity over quality. Therefore, we focused on telling the story of contributions rather than comparisons that might induce competition. So that users can better understand their individual and collective contributions we’ve launched an enhanced profile page in the app, and also launched online pages for the overall community, individual contributors, and the newly introduced groups.
 
-To check out the changes, launch MapSwipe and look for the “Profile” tab that has replaced the (perhaps confusingly named) “More” tab. If you’re not on MapSwipe yet, it’s available in the Apple App Store or on Google Play. As part of your profile, you’ll notice new statistics such as your total time spent swiping, how many missions you’ve contributed on, and how many organizations you have supported. There’s also a “More Stats” link that will take you to your profile on the web. On the web you will find additional graphs, charts, and even a map showing where you have contributed.
+To check out the changes, launch MapSwipe and look for the “Profile” tab that has replaced the (perhaps confusingly named) “More” tab. If you’re not on MapSwipe yet, it’s available in the Apple [App Store](https://itunes.apple.com/us/app/mapswipe/id1133855392?ls=1&mt=8) or on [Google Play](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe). As part of your profile, you’ll notice new statistics such as your total time spent swiping, how many missions you’ve contributed on, and how many organizations you have supported. There’s also a “More Stats” link that will take you to your profile on the web. On the web you will find additional graphs, charts, and even a map showing where you have contributed.
 
 ## What have we accomplished together?
 
-With the completion of this software project, we can now access details about the history of contributions on MapSwipe. By filtering the community page to 2016 to 2022 we can see the growth of MapSwipe, especially since 2020.
+With the completion of this software project, we can now access details about the history of contributions on MapSwipe. By [filtering the community page to 2016 to 2022](https://community.mapswipe.org/?from=2016-07-16&to=2022-12-31) we can see the growth of MapSwipe, especially since 2020.
 
 ![graph of time spend contributing by users of MapSwipe per year](/img/posts/20230131_contributions-graph.png)
 <br><span class="post-caption">After several comparable years for total time spent by users contributing on MapSwipe, there has been an increase, especially in 2022.</span>
