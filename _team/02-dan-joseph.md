@@ -5,7 +5,7 @@ permalink: /team/dan-joseph/
 
 name: Dan Joseph
 team: datatech
-position: Data Tech Lead
+position: Data Tech Manager
 image: /img/team/dan-joseph.jpg
 osm: danbjoseph
 twitter: danbjoseph
