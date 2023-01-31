@@ -33,7 +33,7 @@ To check out the changes, launch MapSwipe and look for the “Profile” tab tha
 
 With the completion of this software project, we can now access details about the history of contributions on MapSwipe. By filtering the community page to 2016 to 2022 we can see the growth of MapSwipe, especially since 2020.
 
-![graph of time spend contributing by users of MapSwipe per year](/img/posts/20230131_mission-heat-map.png)
+![graph of time spend contributing by users of MapSwipe per year](/img/posts/20230131_contributions-graph.png)
 <br><span class="post-caption">After several comparable years for total time spent by users contributing on MapSwipe, there has been an increase, especially in 2022.</span>
 
 While we may be a long way from having MapSwipe missions in every country, there have been missions in a variety of geographies around the world as seen in this heatmap of mission locations.
@@ -41,10 +41,10 @@ While we may be a long way from having MapSwipe missions in every country, there
 ![global heat map of MapSwipe mission locations](/img/posts/20230131_mission-heat-map.png)
 <br><span class="post-caption">The size and intensity of the colors on this map indicate the geographic locations and numbers of MapSwipe missions from 2016-2022.</span>
 
-Please take a look for yourself at [https://community.mapswipe.org/](https://community.mapswipe.org/). You can search by user or group, and every page can be filtered to a particular date range. What stands out to you? What trends do you notice? We hope you are excited as we are by the insights possible!
+Please take a look for yourself at [https://community.mapswipe.org/](https://community.mapswipe.org/). You can search by user or group, and every page can be filtered to a particular date range. What stands out to you? What trends do you notice? We hope you are as excited as we are by the insights possible!
 
 ## Thank you
 
 As this project was larger than the core maintainers were able to complete on their own, we worked with [Togglecorp](https://www.togglecorp.com/) - a software development company based in Nepal with an impressive portfolio including previous work with American Red Cross, the IFRC, and other humanitarian organizations. However, neither this project nor MapSwipe as a whole would be possible without the generous involvement of the community.
 
-On top of the work by the developers at Togglecorp, the core maintainers were still involved in guiding, reviewing code, and otherwise helping guide the project. We have many volunteers helping translate the new text in the app to make it more accessible. Volunteers provide feedback on the design and direction of MapSwipe. Organizations trust MapSwipe to create useful geospatial data. And, as is readily known by checking the community contribution page, there are over 68,000 contributors on the app! A big thank you to everyone involved - past, present, and future.
+On top of the work by the developers at Togglecorp, the core maintainers were still involved in guiding, reviewing code, and otherwise helping guide the project. We have many volunteers helping translate the new text in the app to make it more accessible. Volunteers provide feedback on the design and direction of MapSwipe. Organizations trust MapSwipe to create useful geospatial data. And, as is readily known by checking the community contribution page, there are over 68,000 people that have contributed on the app! A big thank you to everyone involved - past, present, and future.
