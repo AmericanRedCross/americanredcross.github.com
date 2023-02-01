@@ -5,7 +5,7 @@ permalink: /team/katie-lilly/
 
 name: Katie Lilly
 team: im
-position: IM Officer
+position: IM Lead
 image: /img/team/katie-lilly.jpg
 osm:
 twitter:
