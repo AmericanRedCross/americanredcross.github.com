@@ -5,7 +5,7 @@ permalink: /team/jonathan-garro/
 
 name: Jonathan Garro
 team: im
-position: Data Engineer
+position: Data Engineering Lead
 image: /img/team/jonathan-garro.jpg
 osm:
 twitter:
