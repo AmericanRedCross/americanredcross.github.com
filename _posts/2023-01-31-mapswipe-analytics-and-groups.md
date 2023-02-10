@@ -38,7 +38,7 @@ With the completion of this software project, we can now access details about th
 
 While we may be a long way from having MapSwipe missions in every country, there have been missions in a variety of geographies around the world as seen in this heatmap of mission locations.
 
-![global heat map of MapSwipe mission locations](/img/posts/20230131_mission-heat-map.png)
+![global heat map of MapSwipe mission locations](/img/posts/20230131_mission-heat-map.jpg)
 <br><span class="post-caption">The size and intensity of the colors on this map indicate the geographic locations and numbers of MapSwipe missions from 2016-2022.</span>
 
 Please take a look for yourself at [https://community.mapswipe.org/](https://community.mapswipe.org/). You can search by user or group, and every page can be filtered to a particular date range. What stands out to you? What trends do you notice? We hope you are as excited as we are by the insights possible!
