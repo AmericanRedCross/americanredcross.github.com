@@ -31,7 +31,7 @@ To check out the changes, launch MapSwipe and look for the “Profile” tab tha
 
 ## What have we accomplished together?
 
-With the completion of this software project, we can now access details about the history of contributions on MapSwipe. By [filtering the community page to 2016 to 2022](https://community.mapswipe.org/?from=2016-07-16&to=2022-12-31) we can see the growth of MapSwipe, especially since 2020.
+With the completion of this software project, we can now access details about the history of contributions on MapSwipe. By [filtering the community page to 2016 to 2022](https://community.mapswipe.org/?from=2016-07-16&to=2022-12-31) we can see the recent growth of MapSwipe. In 2021, users together spent a total of almost 4 months in MapSwipe swiping and searching for buildings or solving the other mission tasks. In 2022, that number jumped to 1 year. That is, one person would have had to swipe non-stop for all of 2022 to equal the total contributions of all users during the year.
 
 ![graph of time spend contributing by users of MapSwipe per year](/img/posts/20230131_contributions-graph.png)
 <br><span class="post-caption">After several comparable years for total time spent by users contributing on MapSwipe, there has been an increase, especially in 2022.</span>
