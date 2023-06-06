@@ -11,7 +11,7 @@ tags:
   - open source
 ---
 
-_<span class="cross-post">This was originally posted on the [IFRC Solferino Academy](https://solferinoacademy.com/2021/04/14/embracing-open-source-survey-tools/).</span>_
+_<span class="cross-post">This was originally posted on the [IFRC Solferino Academy](https://web.archive.org/web/20220122220521/https://solferinoacademy.com/2021/04/14/embracing-open-source-survey-tools/).</span>_
 
 ## Global impact
 
