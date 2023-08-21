@@ -36,12 +36,15 @@ The MapSwipe app is open source, which means that its code is made public under 
 
 Glad you asked! While artificial intelligence and machine learning hold great promise for accelerating mapping efforts, we have not yet reached the point where human insight and oversight is no longer needed. There is still a significant need for human judgment and discretion when validating map data, assessing quality, and ensuring responsible data practices. As AI and ML progress, our goal is to augment human abilities rather than replace them entirely. 
 
+![generic icon to represent artificial intelligence](/img/posts/20230822_noun-5960267.png)
+
 ## MapSwipe Data Outputs
 
 MapSwipe provides volunteers with satellite imagery of specific areas of interest from around the world. Depending on a project's objectives, volunteers are asked to identify and locate various features on the ground, detect changes in environments or structures, or validate the accuracy of existing mapped data. Each completed project creates data that can be used for humanitarian mapping or research purposes. 
 
 ![screen grab of the data page on the MapSwipe website](/img/posts/20230822_data-page.png)
-<br><span class="post-caption">All MapSwipe data outputs are open and available. They can be searched and downloaded from MapSwipe’s [data page](https://mapswipe.org/en/data/).</span>
+
+All MapSwipe data outputs are open and available. They can be searched and downloaded from MapSwipe’s [data page](https://mapswipe.org/en/data/).
 
 ## MapSwipe improvements supported by the American Red Cross
 
