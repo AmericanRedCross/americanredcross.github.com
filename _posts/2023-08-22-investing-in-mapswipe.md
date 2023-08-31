@@ -66,7 +66,9 @@ The [MapSwipe website](https://mapswipe.org/en/) has been given a modern, visual
 
 ### Enhanced customization of projects
 
-Behind the scenes, project creators can add more information into project tutorials, better supporting volunteers in their learning journey. Additionally, the Validate project type now has configurable answer options and sub-options, allowing more detailed quality assessment of mapped areas. These increases in flexibility expand the types of mapping MapSwipe supports. 
+Behind the scenes, project creators can add more information into project tutorials, better supporting volunteers in their learning journey. Additionally, the Validate project type now has configurable answer options and sub-options, allowing more detailed quality assessment of mapped areas. These increases in flexibility expand the types of mapping MapSwipe supports.
+
+![screen grabs from app showing validate project type with new sub options](/img/posts/20230822_validate.png) 
 
 ## How you can get involved!
 
