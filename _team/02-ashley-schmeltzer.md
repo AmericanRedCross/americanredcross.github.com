@@ -17,4 +17,4 @@ end:
 published: true
 ---
 
-Ashley leads the IM team. She started as a GIS Reservist providing support during major disasters and field projects. She has a background as a technical GIS and remote sensing specialist, as well as previous experience working with her local Red Cross chapter in California and as a GIS Officer based in Turkey to support the Syrian crisis.
+Ashley leads the Information Management team, previously the GIS team. She started in 2012 as an AmeriCorps members with the American Red Cross Los Angeles region and became a GIS Reservist in 2016 providing support during major disasters and field projects. She has a background as a technical GIS and remote sensing specialist, though has become more focused on learning and development in the information management space in recent years. Her interests are around communities of practice and how to build stronger global connections around shared goals and interests for continuous learning and growth. 
